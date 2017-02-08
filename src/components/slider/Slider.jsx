@@ -1,12 +1,12 @@
 import React from 'react';
 
-class Section extends React.Component {
+class Slider extends React.Component {
 
 	render() {
 		return (
 			<div>
 
-				<p>Section</p>
+				<p>Slider</p>
 
 
 			</div>
@@ -14,4 +14,4 @@ class Section extends React.Component {
 	}
 }
 
-export default Section;
+export default Slider;
